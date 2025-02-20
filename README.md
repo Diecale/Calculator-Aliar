@@ -5,3 +5,7 @@
 <li>Javascript</li>
 <li>HTML</li>
 <li>CSS</li>
+<br>
+
+
+![Calculator](Calculator-img.png)
